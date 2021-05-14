@@ -1,5 +1,3 @@
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=byteben&count_private=true&theme=tokyonight&showicons=true)]()
-
 # Microsoft Win32 Content Prep Tool
 
 Manage Windows Apps (.intunewin) with Intune
